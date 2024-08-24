@@ -1,0 +1,13 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "A simple todo app with CRUD operations using Node.js and MongoDB",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.3.2"
+  }
+}
