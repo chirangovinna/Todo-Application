@@ -201,7 +201,3 @@ curl -X PUT http://localhost:3000/todos/<todo_id> -H "Content-Type: application/
 ```bash
 curl -X DELETE http://localhost:3000/todos/<todo_id>
 ```
-
-## Conclusion
-
-This project provides a simple yet effective demonstration of a RESTful API using Node.js and Express. Dockerization allows for easy deployment and scaling in various environments. Feel free to expand this project with additional features, such as user authentication, data validation, or deploying it to a cloud provider like AWS, Azure, or Google Cloud.
